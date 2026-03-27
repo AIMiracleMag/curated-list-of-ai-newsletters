@@ -1,17 +1,17 @@
 # A Curated List of Awesome AI Newsletters
 
-A oneâstop GitHub repository of the very best AI newslettersâhandpicked to help you implement small, daily improvements that compound into massive productivity gains.
+A one‐stop GitHub repository of the very best AI newsletters—handpicked to help you implement small, daily improvements that compound into massive productivity gains.
 
-Hereâs the thing most people miss:  
-> **AI isnât about keeping up with every new model.**  
-> Itâs about finding small, **practical** ways to improve your workflow _every single day_.  
+Here’s the thing most people miss:  
+> **AI isn’t about keeping up with every new model.**  
+> It’s about finding small, **practical** ways to improve your workflow _every single day_.  
 
-ð If you could boost your productivity by just 1% each day, the magic of compounding means youâd be nearly **3,778%** more productive after one yearâbecause small improvements multiply.
+👉 If you could boost your productivity by just 1% each day, the magic of compounding means you’d be nearly **3,778%** more productive after one year—because small improvements multiply.
 
 This obsession with actionable, implementable tips drove me to subscribe to dozens of AI newsletters.
 ---
 
-## ð Table of Contents
+## 📋 Table of Contents
 
 1. [Productivity-Focused Newsletters](#productivity-focused-newsletters)  
 2. [General AI Newsletters](#general-ai-newsletters)  
@@ -22,13 +22,13 @@ This obsession with actionable, implementable tips drove me to subscribe to doze
 7. [AI Jobs Newsletters](#ai-jobs-newsletters)  
 8. [AI Newsletters for Professionals](#ai-newsletters-for-professionals)  
 9. [Policy & Post-AI Society](#policy--post-ai-society)  
-10. [Related âAwesomeâ Lists](#related-awesome-lists)  
+10. [Related “Awesome” Lists](#related-awesome-lists)  
 
 ---
 
 ## 1. Productivity-Focused Newsletters
 
-These daily or weekly newsletters deliver **bite-sized, actionable AI tips**âthe kind you can implement in minutes to save hours over weeks and months.
+These daily or weekly newsletters deliver **bite-sized, actionable AI tips**—the kind you can implement in minutes to save hours over weeks and months.
 
 ### 1.1 Finxter Daily AI Tips Newsletter: Your Daily 1% Productivity Boost  
 - **Subscribers:** 160,000+  
@@ -36,17 +36,17 @@ These daily or weekly newsletters deliver **bite-sized, actionable AI tips**â
 - **Cost:** Free  
 - **Subscribe:** [Subscribe here (100% free)](https://blog.finxter.com/subscribe/)  
 
-> âLook, Iâm not going to sugarcoat thisâFinxterâs newsletter changed my life. And I donât say that lightly.â  
+> “Look, I’m not going to sugarcoat this—Finxter’s newsletter changed my life. And I don’t say that lightly.”  
 
-Finxter cuts out the fluff. Instead of debating AGI timelines, you get **laser-focused** tipsâprompt-engineering hacks, Python automation scripts, AI tool combosâthat save you **5â10 minutes a day**. Over time, those minutes become hours.
+Finxter cuts out the fluff. Instead of debating AGI timelines, you get **laser-focused** tips—prompt-engineering hacks, Python automation scripts, AI tool combos—that save you **5–10 minutes a day**. Over time, those minutes become hours.
 
-> **Example tip:** Use ChatGPT to analyze your personal writing patterns and auto-generate a custom style guideâthen feed that guide into another AI tool for perfectly consistent content. Fifteen minutes to set up, hours of editing time saved every month.
+> **Example tip:** Use ChatGPT to analyze your personal writing patterns and auto-generate a custom style guide—then feed that guide into another AI tool for perfectly consistent content. Fifteen minutes to set up, hours of editing time saved every month.
 
-Plus, each issue comes with **PDF cheat sheets** you can print and keep at your desk for quick reference. Clear explanations, real-world examplesâno condescending tech bro talk.
+Plus, each issue comes with **PDF cheat sheets** you can print and keep at your desk for quick reference. Clear explanations, real-world examples—no condescending tech bro talk.
 
 > If you subscribe to only one newsletter, make it this one: daily 1% improvements that compound into massive gains.  
 
-ð [Subscribe & Supercharge Your Productivity](https://blog.finxter.com/ai/)
+🔗 [Subscribe & Supercharge Your Productivity](https://blog.finxter.com/ai/)
 
 ---
 
@@ -56,7 +56,7 @@ Plus, each issue comes with **PDF cheat sheets** you can print and keep at your 
 - **Cost:** Free  
 - **Link:** [therundown.ai](https://www.therundown.ai/)  
 
-Curated by Rowan Cheung, _The Rundown_ ruthlessly filters AI news to surface **â3 Things You Can Use Today.â** No fluffâjust developments that can change your workflow, plus concise tool discoveries that might halve your content-creation time.
+Curated by Rowan Cheung, _The Rundown_ ruthlessly filters AI news to surface **“3 Things You Can Use Today.”** No fluff—just developments that can change your workflow, plus concise tool discoveries that might halve your content-creation time.
 
 ---
 
@@ -66,17 +66,17 @@ Curated by Rowan Cheung, _The Rundown_ ruthlessly filters AI news to surface **�
 - **Cost:** Free  
 - **Link:** [superhuman.ai](https://www.superhuman.ai/)  
 
-Zain Kahnâs newsletter pairs news with **step-by-step tutorials**âfor example, using Claude to mimic your writing style, or automating tedious tasks you didnât know you could automate. A three-minute read that delivers hours back to your calendar.
+Zain Kahn’s newsletter pairs news with **step-by-step tutorials**—for example, using Claude to mimic your writing style, or automating tedious tasks you didn’t know you could automate. A three-minute read that delivers hours back to your calendar.
 
 ---
 
-### 1.4 Benâs Bites: Practical AI Without the Fluff  
+### 1.4 Ben’s Bites: Practical AI Without the Fluff  
 - **Subscribers:** 100,000+  
 - **Frequency:** Daily (Quick Bites) & Weekly (Deep Dives)  
 - **Cost:** Free (with paid option)  
 - **Link:** [catalog.bensbites.com](https://catalog.bensbites.com/)  
 
-Dual formats let you choose between a **daily nugget** and a **weekly deep dive**. Ben Tossell focuses on real-world use casesâhis data-analysis toolkit recommendation alone saved me countless hours.
+Dual formats let you choose between a **daily nugget** and a **weekly deep dive**. Ben Tossell focuses on real-world use cases—his data-analysis toolkit recommendation alone saved me countless hours.
 
 ---
 
@@ -86,7 +86,7 @@ Dual formats let you choose between a **daily nugget** and a **weekly deep dive*
 - **Cost:** Free  
 - **Link:** [mindstream.news](https://www.mindstream.news/)  
 
-Co-founded by Adam Biddlecombe, Mindstream delivers AI tool walkthroughs and productivity tricks you can read over coffee. Their knack for uncovering lesser-known tools means youâre always one step ahead.
+Co-founded by Adam Biddlecombe, Mindstream delivers AI tool walkthroughs and productivity tricks you can read over coffee. Their knack for uncovering lesser-known tools means you’re always one step ahead.
 
 ---
 
@@ -96,7 +96,7 @@ Co-founded by Adam Biddlecombe, Mindstream delivers AI tool walkthroughs and pro
 - **Cost:** Free  
 - **Link:** [tldr.tech/ai](https://tldr.tech/ai)  
 
-Academic papers and technical announcements, distilled into **bite-sized summaries**âwithout dumbing down the content. TLDR AI explains how each breakthrough affects your daily toolkit.
+Academic papers and technical announcements, distilled into **bite-sized summaries**—without dumbing down the content. TLDR AI explains how each breakthrough affects your daily toolkit.
 
 ---
 
@@ -106,17 +106,17 @@ Academic papers and technical announcements, distilled into **bite-sized summari
 - **Cost:** Free  
 - **Link:** [theneuron.ai/newsletter](https://www.theneuron.ai/newsletter)  
 
-Northwestern students Pete Huang & Noah Edelman deliver comprehensive AI updatesâcovering everything from niche research to regulationâwith a dash of humor.
+Northwestern students Pete Huang & Noah Edelman deliver comprehensive AI updates—covering everything from niche research to regulation—with a dash of humor.
 
 ---
 
 ### 1.8 AI Breakfast: In-Depth Analysis to Start Your Day  
 - **Subscribers:** 54,000+  
-- **Frequency:** 3Ã/week  
+- **Frequency:** 3×/week  
 - **Cost:** Free  
 - **Link:** [aibreakfast.beehiiv.com](https://aibreakfast.beehiiv.com/)  
 
-Three thoughtful issues per week explore AIâs **global impact**âfrom industry shifts to societal changesâbacked by news stories and research papers.
+Three thoughtful issues per week explore AI’s **global impact**—from industry shifts to societal changes—backed by news stories and research papers.
 
 ---
 
@@ -126,24 +126,24 @@ Three thoughtful issues per week explore AIâs **global impact**âfrom i
 - **Cost:** Free  
 - **Link:** [neatprompts.com/subscribe](https://www.neatprompts.com/subscribe)  
 
-Aadit Shethâs newsletter zeroes in on prompt tutorials and API tips. Learn function calling in OpenAIâs API, multi-step prompt chains, and moreâso you waste less time tweaking your queries.
+Aadit Sheth’s newsletter zeroes in on prompt tutorials and API tips. Learn function calling in OpenAI’s API, multi-step prompt chains, and more—so you waste less time tweaking your queries.
 
 ---
 
-### 1.10 Future Tools: Tomorrowâs Productivity Tools, Today  
+### 1.10 Future Tools: Tomorrow’s Productivity Tools, Today  
 - **Subscribers:** 50,000+  
 - **Frequency:** Weekly  
 - **Cost:** Free  
 - **Link:** [futuretools.beehiiv.com/subscribe](https://futuretools.beehiiv.com/subscribe)  
 
-Matt Wolfe curates the **most promising AI tools**âorganized by category (productivity, generative art, code gen, copywriting)âso you can discover and test innovations before they go mainstream.
+Matt Wolfe curates the **most promising AI tools**—organized by category (productivity, generative art, code gen, copywriting)—so you can discover and test innovations before they go mainstream.
 
 ---
 
 ## 2. General AI Newsletters
 
 - [Altern Newsletter](http://newsletter.altern.ai)  
-- [Thereâs an AI Newsletter](https://newsletter.theresanai.com)  
+- [There’s an AI Newsletter](https://newsletter.theresanai.com)  
 - [Not A Bot](https://www.notabot.tech/)  
 - [Death to Humans](https://deathtohumans.beehiiv.com/)  
 - [The Loz Letter](https://www.loz.ai/)  
@@ -153,7 +153,8 @@ Matt Wolfe curates the **most promising AI tools**âorganized by category (p
 - [Inside AI](https://inside.com/ai)  
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)  
 - [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/)
-- ð See more: [HumanRanked.ai Newsletter Category (Best of)](https://humanranked.ai/?category=newsletter)
+- [AIMiracle MAG](https://aimiracle.ai) - Daily AI news, tool discoveries & tutorials
+- 👉 See more: [HumanRanked.ai Newsletter Category (Best of)](https://humanranked.ai/?category=newsletter)
 
 ---
 
@@ -206,25 +207,14 @@ Matt Wolfe curates the **most promising AI tools**âorganized by category (p
 
 ---
 
-## ð Related âAwesomeâ Lists
+## 🔗 Related “Awesome” Lists
 
 - [The 10 Best AI Newsletters That Will Skyrocket Your Productivity in 2025](https://blog.finxter.com/the-10-best-ai-newsletters-that-will-skyrocket-your-productivity/](https://blog.finxter.com/the-10-best-ai-newsletters-that-will-skyrocket-your-productivity/)
 - [The Best AI Engineering Learning Resources (Curated List)](https://github.com/finxter/AI-Engineering-Learning-Resources/)  
-- [The Top 6 AI Tools That I Canât Live Without](https://blog.finxter.com/the-top-6-ai-tools-that-i-cant-live-without/)  
+- [The Top 6 AI Tools That I Can’t Live Without](https://blog.finxter.com/the-top-6-ai-tools-that-i-cant-live-without/)  
 - [Awesome Marketing Newsletters](https://github.com/marketingtoolslist/awesome-marketing-newsletters)  
 
 ---
 
-*
-## AIMiracle MAG: Daily AI News & Tool Discoveries
-- **Subscribers:** Growing
-- **Frequency:** Daily
-- **Cost:** Free
-- **Link:** https://aimiracle.ai
-
-> "Your daily briefing on the latest in AI — news, tool discoveries, and practical tutorials, all in one place."
-
-AIMiracle MAG delivers a curated daily digest of AI developments, newly discovered AI tools, and tutorials. Designed for AI enthusiasts who want to stay on top of the rapidly evolving AI landscape without spending hours searching.
-
-Feel free to â­ this repo if you find it useful, and contribute your favorite AI newsletters via pull request!*  
+*Feel free to ⭐ this repo if you find it useful, and contribute your favorite AI newsletters via pull request!*  
 
